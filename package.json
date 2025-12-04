@@ -1,12 +1,12 @@
 {
-	"name": "n8n-nodes-vtiger-crm",
+	"name": "n8n-nodes-vtiger-crm-gtv",
 	"version": "0.1.4",
 	"description": "Interacts with Vtiger API",
+	"publishConfig": {
+		"access": "public"
+	},
 	"keywords": [
-		"n8n-community-node-package",
-		"vtiger",
-		"crm",
-		"api"
+		"n8n-community-node-package"
 	],
 	"license": "MIT",
 	"homepage": "",
@@ -16,7 +16,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sogjugz/n8n-nodes-vtiger-crm"
+		"url": "https://github.com/vuongle-mike/n8n-nodes-vtiger-crm-gtv"
 	},
 	"main": "index.js",
 	"scripts": {
